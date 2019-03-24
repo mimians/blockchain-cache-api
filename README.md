@@ -20,7 +20,7 @@ We know that this documentation needs cleaned up and made easier to read. We'll 
 1) Clone this repository to wherever you'd like the API to run:
 
 ```bash
-git clone https://github.com/TurtlePay/blockchain-cache-api
+git clone https://github.com/mimians/blockchain-cache-api
 ```
 
 2) Install the required Node.js modules
